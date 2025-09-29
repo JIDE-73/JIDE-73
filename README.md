@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Leonardo Jiménez
 
-<!--
-**JIDE-73/JIDE-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** con experiencia construyendo aplicaciones desde el **frontend** hasta el **backend**, aplicando diferentes arquitecturas y buenas prácticas de desarrollo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+* **Lenguajes:** Python 🐍 | JavaScript ⚡ | TypeScript 🔷 | C# 💠
+* **Frameworks / Librerías:** React ⚛️ | React Native 📱 | Expo Go | Electron ⚡
+* **Estilos:** TailwindCSS 🎨 | Shadcn/UI | Bluestack
+* **Arquitecturas:** Cliente-Servidor | MVC | Arquitectura por capas | Desarrollos Fullstack
+* **APIs:** Desarrollo y consumo de APIs con Python, JS y C#
+
+---
+
+## 🌱 Lo que disfruto
+
+🎮 Videojuegos
+🎶 Música electrónica
+🍳 Cocinar
+💡 Programar y aprender cosas nuevas
+♟️ Jugar ajedrez
+
+---
+
+## 📫 Conecta conmigo
+
+✨ [LinkedIn](https://www.linkedin.com/in/leonardo-jim%C3%A9nez-29725b338/)
+✨ [Portfolio / Website](#)
+✨ [Email](jimenezleonardo875@gmail.com)
+
+---
+
+⭐️ *Siempre en busca de nuevos retos y proyectos interesantes.*
